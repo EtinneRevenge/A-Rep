@@ -1,0 +1,1 @@
+logFunc = () => console.log("Привет мир!")
